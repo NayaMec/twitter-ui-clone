@@ -1,0 +1,12 @@
+.timeline-header {
+  padding: 2.4rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+  border-bottom: 1px solid #ebeef0;
+  svg {
+    color: var(--twitter-blue);
+  }
+}
